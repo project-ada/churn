@@ -7,3 +7,4 @@ add line
 new line
 new line
 new line
+add a new line
